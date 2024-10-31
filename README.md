@@ -24,3 +24,6 @@
 11. Escreva um programa que solicite ao usuário dois números e verifique se o primeiro número é maior que o segundo. Imprima uma mensagem informando o resultado da comparação.
 
 12. Escreva um programa que solicite ao usuário a sua idade e verifique se ele é maior de idade (idade igual ou superior a 18 anos). Imprima uma mensagem informando o resultado.
+
+- https://docs.google.com/document/d/1OFbhEpLaP6HDuK6t3C1Rv3wxZXXBi-ujnjNXomF2TwA/edit?tab=t.0 (Questão 1 e 2)
+  
